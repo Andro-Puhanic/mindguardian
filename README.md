@@ -1,4 +1,4 @@
-**# 🌟 MindGuardian – AI-Powered Mental Wellness Companion**  
+# **🌟 MindGuardian – AI-Powered Mental Wellness Companion**  
 *Project for Mental Health Awareness & Education*  
 
 ## 📥 **Download** 
